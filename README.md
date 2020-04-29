@@ -1,4 +1,4 @@
-# Titanic_Kaggle
+# Titanic Kaggle
 
 Pacotes que serão utilizados para analisar o conjunto de dados do Titanic.
 
@@ -24,3 +24,5 @@ titanic.test = read.csv("data\\test.csv", header = T, sep=",",
 ```
 
 Vale ressaltar que a base de teste armazenada acima, não contém a variável Survived pois já é a base em que o modelo será testado, para realizar estudo do modelo será interessante dividir a base de treino em duas: Treino e teste do modelo.
+
+#### Análise descritiva dos dados
