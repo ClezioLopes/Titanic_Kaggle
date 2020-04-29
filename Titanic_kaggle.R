@@ -168,4 +168,4 @@ data.final$Survived = Survived.random
 
 write.csv(data.final, file="Survived_kaggle_submission_2.csv", row.names = F, quote = FALSE)
 
-# Resultado competição score: 77511
+# Resultado competição score: 0.77511
