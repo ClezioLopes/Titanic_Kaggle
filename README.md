@@ -3,6 +3,8 @@
 Material desenvolvido com o intuíto de aprender e aprofundar o conhecimento na área de Data Science, o conteúdo aqui não apresenta qualquer validação de métodologia, apenas a curiosidade contribuiu para a realização do mesmo.
 
 ### Análise descritiva dos dados
+![alt text](https://github.com/[ClezioLopes]/[Titanic_Kaggle]/blob/[branch]/descritiva_classe.jpg?raw=true)
+
 ### OBS:  Incluir imagens
 
 
