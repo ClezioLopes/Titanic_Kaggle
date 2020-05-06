@@ -42,3 +42,5 @@ Quando o assunto são o número de sobreviventes, temos um baixo valor, pois cer
 
 #### OBS: Os dados utilizados para análise corresponde aos dados de treinamento, não foi considerado os dados de teste já que em nossas análise sempre estaremos tratando algum conhecimento dos dados sempre em relação a base de treino.
 
+Poderia realizar combinações destas variáveis, por exemplo, sexo com local de embarque entre outras, mas mais uma vez reforço a ideia de que o objetivo é apenas realizar o ajuste de um modelo.
+
