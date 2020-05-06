@@ -13,9 +13,10 @@ Podemos observar pela figura abaixo, que houve um grande número de embarques em
 ![descritiva_embarque](https://user-images.githubusercontent.com/47902959/81113007-e8145600-8ef5-11ea-91ee-4df1402c0938.png)
 
 Quando observamos a idade dos tripulantes do Titanic podemos observar que são em sua maioria jovens, com com idade entre 20 e 40 anos.
-   |Min. |1st Qu. | Median | Mean | 3rd Qu.| Max.  |
-   -------------------------------------------------
-   |0.42 | 22.00  | 28.00  | 29.36| 35.00  | 80.00 |
+
+   | Mínimo | 1º Quartil | Mediana | Média | 3º Quartil | Máximo  |
+   |--------|------------|---------|-------|------------|---------|
+   | 0.42   | 22.00      | 28.00   | 29.36 | 35.00      | 80.00   |
   
 
 ![descritiva_idade](https://user-images.githubusercontent.com/47902959/81113010-e8145600-8ef5-11ea-8392-c5374cfe0270.png)
