@@ -2,16 +2,21 @@
 
 Material desenvolvido com o intuíto de aprender e aprofundar o conhecimento na área de Data Science, o conteúdo aqui não apresenta qualquer validação de métodologia, apenas a curiosidade contribuiu para a realização do mesmo.
 
-### Análise descritiva dos dados
+## Análise descritiva dos dados
 
+A análise descritiva são o passo inicial em qualquer análise estatística, pois a mesma serve para nos dar uma compreensão dos dados em mãos, em algum casos problemas são solucionados apenas com uma descritiva bem feito. Neste trabalho não entraremos afundo nas descritivas pois não é o nosso foco um trabalho completo, estamos mais interessados em aprensentar um modelo.
+
+### Classe
 Para a classe de pessoas a bordo do Titanic, temos um grande número de pessoas na classe 3 aproximadamente 55%.
 
 ![descritiva_classe](https://user-images.githubusercontent.com/47902959/81113002-e77bbf80-8ef5-11ea-8fc1-4ea1b3747d90.png)
 
+### Embarque
 Podemos observar pela figura abaixo, que houve um grande número de embarques em Southampton, com cerca de 72.5% dos embarques realizados.
 
 ![descritiva_embarque](https://user-images.githubusercontent.com/47902959/81113007-e8145600-8ef5-11ea-91ee-4df1402c0938.png)
 
+### Idade
 Quando observamos a idade dos tripulantes do Titanic podemos observar que são em sua maioria jovens, com com idade entre 20 e 40 anos.
 Podemos notar que a média é de aproximadamente 29 anos, reforçando o comentário anterior, temos que o 3º quartil corresponde a idade de 35 anos, ou seja, 75% dos tripulantes possuem idade até essa idade.
 OBS: Temos um valor de idade inferior a 1, pois está está representada em meses vividos.
@@ -20,12 +25,13 @@ OBS: Temos um valor de idade inferior a 1, pois está está representada em mese
    |--------|------------|---------|-------|------------|---------|
    | 0.42   | 22.00      | 28.00   | 29.36 | 35.00      | 80.00   |
   
-
 ![descritiva_idade](https://user-images.githubusercontent.com/47902959/81113010-e8145600-8ef5-11ea-8392-c5374cfe0270.png)
 
+### Sexo
 ![descritiva_sexo](https://user-images.githubusercontent.com/47902959/81113011-e8acec80-8ef5-11ea-91f8-740cd871c5b4.png)
 
+### Sobreviventes
 ![descritiva_sobrev](https://user-images.githubusercontent.com/47902959/81113013-e8acec80-8ef5-11ea-8df0-ad576240b1c2.png)
 
-#### OBS: As análises descritivas não se resume somente a estas, podemos fazer análises multivariadas a cerca das variáveis na base, como o objetivo é apresentar um modelo não aprofundaremos nas descritivas.
+#### OBS: Como já citado anteriormente as análises descritivas não se resume somente a estas, podemos fazer análises multivariadas a cerca das variáveis na base, como o objetivo é apresentar um modelo não aprofundaremos nas descritivas.
 
