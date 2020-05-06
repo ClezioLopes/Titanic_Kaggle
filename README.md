@@ -9,7 +9,7 @@ A análise descritiva são o passo inicial em qualquer análise estatística, po
 ### Classe
 Para as classes do Titanic, temos um grande número de pessoas na classe 3 aproximadamente 55% dos passageiros. Estes resultados são previamente esperados, pois é de conhecimento de todos que em viagens sejam em navios ou aviões o número de passageiros na primeira e segunda classe são inferiores aos de classes mais inferiores.
 
-![descritiva_classe](https://user-images.githubusercontent.com/47902959/81113002-e77bbf80-8ef5-11ea-8fc1-4ea1b3747d90.png)
+![descritiva_classe](https://user-images.githubusercontent.com/47902959/81209853-6ed53b80-8fa7-11ea-9c2b-9821dbf50d89.png)
 
 ### Embarque
 Podemos observar pela figura abaixo, que houve um grande número de embarques em Southampton, com cerca de 72.5% dos embarques realizados. Este resultado já era esperado, pois a rota da viagem consistia em saída de Southampton (Reino Unido), com passagem por Cherbourg-Octeville (França) e por Queenstown (Irlanda) antes do destino final em Nova Yorque.
@@ -32,7 +32,7 @@ Em relação ao sexo, temos uma grande maioria do sexo masculino, quase 65% das 
 ![descritiva_sexo](https://user-images.githubusercontent.com/47902959/81113011-e8acec80-8ef5-11ea-91f8-740cd871c5b4.png)
 
 ### Sobreviventes
-![descritiva_sobrev](https://user-images.githubusercontent.com/47902959/81113013-e8acec80-8ef5-11ea-8df0-ad576240b1c2.png)
+![descritiva_sobrev](https://user-images.githubusercontent.com/47902959/81209859-70066880-8fa7-11ea-979a-0ecd6cd1f2cc.png)
 
 #### OBS: Como já citado anteriormente as análises descritivas não se resume somente a estas, podemos fazer análises multivariadas a cerca das variáveis na base, como o objetivo é apresentar um modelo não aprofundaremos nas descritivas.
 
