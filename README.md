@@ -18,7 +18,7 @@ Podemos observar pela figura abaixo, que houve um grande número de embarques em
 
 ![descritiva_sobrev](https://user-images.githubusercontent.com/47902959/81113013-e8acec80-8ef5-11ea-8df0-ad576240b1c2.png)
 
-### OBS:  Incluir imagens
+#### OBS: As análises descritivas não se resume somente a estas, podemos fazer análises bivariadas a cerca das variáveis na base, como o objetivo é apresentar um modelo não aprofundaremos nas descritivas.
 
 
 Os demais códigos, estão no arquivo .R
