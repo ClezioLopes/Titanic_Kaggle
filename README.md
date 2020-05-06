@@ -2,17 +2,17 @@
 
 Material desenvolvido com o intuíto de aprender e aprofundar o conhecimento na área de Data Science, o conteúdo aqui não apresenta qualquer validação de métodologia, apenas a curiosidade contribuiu para a realização do mesmo.
 
-## Análise descritiva dos dados
+## Análise descritiva
 
 A análise descritiva são o passo inicial em qualquer análise estatística, pois a mesma serve para nos dar uma compreensão dos dados em mãos, em algum casos problemas são solucionados apenas com uma descritiva bem feito. Neste trabalho não entraremos afundo nas descritivas pois não é o nosso foco um trabalho completo, estamos mais interessados em aprensentar um modelo.
 
 ### Classe
-Para a classe de pessoas a bordo do Titanic, temos um grande número de pessoas na classe 3 aproximadamente 55%.
+Para as classes do Titanic, temos um grande número de pessoas na classe 3 aproximadamente 55% dos passageiros. Estes resultados são previamente esperados, pois é de conhecimento de todos que em viagens sejam em navios ou aviões o número de passageiros na primeira e segunda classe são inferiores aos de classes mais inferiores.
 
 ![descritiva_classe](https://user-images.githubusercontent.com/47902959/81113002-e77bbf80-8ef5-11ea-8fc1-4ea1b3747d90.png)
 
 ### Embarque
-Podemos observar pela figura abaixo, que houve um grande número de embarques em Southampton, com cerca de 72.5% dos embarques realizados.
+Podemos observar pela figura abaixo, que houve um grande número de embarques em Southampton, com cerca de 72.5% dos embarques realizados. Este resultado já era esperado, pois a rota da viagem consistia em saída de Southampton (Reino Unido), com passagem por Cherbourg-Octeville (França) e por Queenstown (Irlanda) antes do destino final em Nova Yorque.
 
 ![descritiva_embarque](https://user-images.githubusercontent.com/47902959/81113007-e8145600-8ef5-11ea-91ee-4df1402c0938.png)
 
@@ -28,6 +28,7 @@ OBS: Temos um valor de idade inferior a 1, pois está está representada em mese
 ![descritiva_idade](https://user-images.githubusercontent.com/47902959/81113010-e8145600-8ef5-11ea-8392-c5374cfe0270.png)
 
 ### Sexo
+Em relação ao sexo, temos uma grande maioria do sexo masculino, quase 65% das pessoas a bordo eram do sexo masculino. 
 ![descritiva_sexo](https://user-images.githubusercontent.com/47902959/81113011-e8acec80-8ef5-11ea-91f8-740cd871c5b4.png)
 
 ### Sobreviventes
