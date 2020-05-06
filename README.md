@@ -28,11 +28,17 @@ OBS: Temos um valor de idade inferior a 1, pois está está representada em mese
 ![descritiva_idade](https://user-images.githubusercontent.com/47902959/81113010-e8145600-8ef5-11ea-8392-c5374cfe0270.png)
 
 ### Sexo
-Em relação ao sexo, temos uma grande maioria do sexo masculino, quase 65% das pessoas a bordo eram do sexo masculino. 
+Em relação ao sexo, temos uma grande maioria do sexo masculino, quase 65% das pessoas a bordo eram do sexo masculino. Estamos falando de mais de 100 anos atrás, então o baixo número de mulheres pode estar atrelado ao fato de na época exister resistência a imagem da mulher nos grandes cenários.
+
 ![descritiva_sexo](https://user-images.githubusercontent.com/47902959/81113011-e8acec80-8ef5-11ea-91f8-740cd871c5b4.png)
 
 ### Sobreviventes
+
+Quando o assunto são o número de sobreviventes, temos um baixo valor, pois cerca de 61% dos tripulantes não sobreviveram ao naufrágio. Deixando claro o porque foi um dos piores acidentes da história marítima. No momento de realizar os salvamentos, vale destacar que no momento do naufrágio a prioridade era para crianças e mulheres.
+
 ![descritiva_sobrev](https://user-images.githubusercontent.com/47902959/81209859-70066880-8fa7-11ea-979a-0ecd6cd1f2cc.png)
 
 #### OBS: Como já citado anteriormente as análises descritivas não se resume somente a estas, podemos fazer análises multivariadas a cerca das variáveis na base, como o objetivo é apresentar um modelo não aprofundaremos nas descritivas.
+
+#### OBS: Os dados utilizados para análise corresponde aos dados de treinamento, não foi considerado os dados de teste já que em nossas análise sempre estaremos tratando algum conhecimento dos dados sempre em relação a base de treino.
 
